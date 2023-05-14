@@ -22,6 +22,8 @@ if [ "$Choice" = "1" ]
 then
 	until [ "$url" = "NO" ] || [ "$word" = "NO" ]
 	do
+		url="Default"
+		word="Default"
 		while [ "$url" =  "Default" ] || [ -z "$url" ]
 		do
 			printf "Introduzca una URL: "
@@ -33,7 +35,12 @@ then
 			printf "Introduzca el nombre bajo el que se guardara el archivo: "
 			read word
 		done
-
+		
+		if [ "$url" = "NO" ] || [ "$word" = "NO" ]
+		then
+			break
+		done
+		
 		curl $url > $word.html
 		printf "Archivo $word.tar.gz guardado con exito"
 	done
