@@ -64,5 +64,5 @@ then
         printf "\n Body: "
         read body
 
-        curl -X POST https://jsonplaceholder.typicode.com/posts -H 'Content-Type: application/json' -d '{ "userId": "'"$userId"'", "id": "'"$>
+        curl -X POST https://jsonplaceholder.typicode.com/posts -H 'Content-Type: application/json' -d '{ "userId": "'"$userID"'", "id": "'"$id"'", "title": "'"$title"'", "body": "'"$body"'"}' > $title.json 
 fi
