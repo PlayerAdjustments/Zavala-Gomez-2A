@@ -39,7 +39,7 @@ then
 		if [ "$url" = "NO" ] || [ "$word" = "NO" ]
 		then
 			break
-		done
+		fi
 		
 		curl $url > $word.html
 		printf "Archivo $word.tar.gz guardado con exito"
