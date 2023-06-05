@@ -21,8 +21,8 @@ NC="\033[0m"
 
 
 #Agrega nombres y descripciones para seleccionarse aleatoriamente en ciertos casos.
-DefaultProductsNames=("Pan-Peniche" "Rosca-Poot")
-DefaultProductsDescriptions=("Redondo y sabroso" "Para chuparse los dedos")
+DefaultProductsNames=("Pan-Peniche" "Rosca-Poot" "Aylin-Te" "Moka-niche" "Soft-latte" "Me-ffin" "Cappu-niche")
+DefaultProductsDescriptions=("Redondo y sabroso" "Para chuparse los dedos" "Relajarse requiere de esto" "Nada que lo supere" "El mas sabroso de todos" "Unico e inigualable")
 AllowedProductUsers=("54219247" "15221673" "15221403" "15222160" "14197923" "15222623" "15221666" "15222605" "13160606" "15222385" "15221710" "15222733" "15222136" "15209883" "15222137" "15222207" "15222734" "15222100" "15221672" "15221310" "15221428" "15222607" "13160815" "15221664" "15221661" "15221664" "15221661" "15222119" "15222431" "15222103" "15222431" "15222103" "15222195" "15221663" "15222101" "152211667" "15221669" "15198855")
 
 until [ "$choice" = "1" ] || [ "$choice" = "2" ]
