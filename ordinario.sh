@@ -27,20 +27,20 @@ AllowedProductUsers=("54219247" "15221673" "15221403" "15222160" "14197923" "152
 
 until [ "$choice" = "1" ] || [ "$choice" = "2" ]
 do
-	#Aqui podriamos igual darle formato, aunque no se me ocurren ideas.
 	printf "\033c" #Limpia la terminal antes de escribir de-nuevo.
 	printf "\n «············»“ Choice ”«············» \n"
 	printf " Desea crear un nuevo usuario? \n 1. Si, quiero crear una cuenta.  \n 2. No, ya tengo cuenta. \n Eleccion: "
 	read choice
 done
 
+#si la decicion es 1 entonces se crea una cuenta nueva
 if [ "$choice" = "1" ]
 then
 	printf "\n «············»“ Crea una nueva cuenta ”«············» \n $INFO En caso de dejar vacio el username, el usuario sera 'Default y un numero random'. \n $INFO En caso de dejar vacio password, la contraseña sera 'Default'. $NC\n  Username: "
 	read username
 	printf "\n  Password: "
 	read password
-
+#Verificar que si no pone la información adecuada se acomplete o se ponga default
 	if [[ "$username" =~ ^"@gmail.com".* ]] || [ -z "$username" ]
 	then
 		username="Default-$(( ( RANDOM ) + 1 ))@gmail.com"
@@ -53,8 +53,9 @@ then
 		password="Default"
 	fi
 
-	printf "\n $INFO Tu usuario es: $NC $username \n $INFO Tu contraseña es: $NC $password \n"
+	printf "\n $INFO Tu usuario es: $NC $username @gmail.com \n $INFO Tu contraseña es: $NC $password \n"
 
+#Si no existe la carpeta, se crea 
 	if [ -d "./UsersInfo" ]
 	then
 		printf "\n $BACKUP Se detecto que la carpeta 'UsersInfo' ya existe. Datos de usuario guardados.$NC \n"
@@ -63,6 +64,7 @@ then
 		mkdir UsersInfo
 	fi
 
+#Verificar que el archivo del usuario existe, sino, mostrar los usuarios existentes
 	if [ -f "./UsersInfo/luis@gmail.com.json" ]
 	then
 		printf "\n $BACKUP Archivo 'luis@gmail.com.json' detectado en 'UsersInfo.$NC \n"
@@ -71,6 +73,7 @@ then
 		jq -n '. + {"user": "luis@gmail.com", "password": "$2y$10$VEJlBr0VfE.oUuMGU73ecOfcnBR1XP5y.avHe/hxZIZTHkYd7thBq", "id": "2", "RealPassword": "1234"}' > UsersInfo/luis@gmail.com.json
 	fi
 
+#Solicitud a la api para obtener la informacion
 	curl -X POST https://tierra-nativa-api.eium.com.mx/api/ordinario-so/signUp -H 'Content-Type:application/json' -d '{"user": "'"$username"'","password": "'"$password"'"}' > ./UsersInfo/$username.json
 	jq '. +  {"RealPassword": "'"$password"'"} ' UsersInfo/$username.json > UsersInfo/Real$username.json
 	rm UsersInfo/$username.json
@@ -78,17 +81,19 @@ then
 	printf "\n $INFO Api recibio la informacion con exito, revisa el archivo $username.json dentro de UsersInfo. \n"
 fi
 
+#Si la respuesta es se muestra la pantalla de inicar sesion
 if [ "$choice" = "2" ]
 then
 	until [ -f "UsersInfo/$username.json" ] && [ "$passwordCheck" = "$password" ]
 	do
 
 		printf "\033c"
-		printf "\n «············»“ Log In ”«············» \n $INFO Puede revisar la informacion de los usuarios dentro de /UsersInfo. \n $INFO En caso de poner un usuario o contraseña que no existan en UsersInfo, se pedira de-nuevo la info. $NC\n  Username: "
+		printf "\n «············»“ Log In ”«············» \n $INFO Puede revisar la informacion de los usuarios dentro de /UsersInfo. \n $INFO En caso de poner un usuario o contraseña que no existan en UsersInfo, se pedira de-nuevo la info. $NC\n  Username(correo): "
 		read username
 		printf "\n  Password: "
 		read password
 
+#Si el archivo del usuario coincide se procede a checar el archivo de la contraseña
 		if [ -f "UsersInfo/$username.json" ]
 		then
 			printf "\n $CONFIRMATION File found. $NC \n"
@@ -109,10 +114,12 @@ then
 					mkdir LogIn
 				fi
 
+				#Solictud a la api para obtener el token del usuario
 				curl -X POST https://tierra-nativa-api.eium.com.mx/api/ordinario-so/logIn -H 'Content-Type:application/json' -d '{ "user":"'"$username"'", "password": "'"$password"'" }' > ./LogIn/Tkn-$username.json
 				userTkn=$(jq -r ".token" LogIn/Tkn-$username.json)
 				curlResult=$(jq -r ".status" LogIn/Tkn-$username.json)
 
+				#Si la solictud fue exitosa se comprueba si existe la carpeta products, sino, se crea
 				if [ "$curlResult" = "success" ]
 				then
 					printf "\n $CONFIRMATION Log In sucessful. Entrando como usuario $username. Entregando Token. $NC \n"
@@ -142,6 +149,8 @@ then
 						printf "\n Fecha: $CURRENTDATE"
 
 						randomID="$(( ( RANDOM ) + 1 ))"
+
+						#Si el nombre del producto esta vacio, se le asigna uno
 						if [ -z "$productName" ]
 						then
 							printf "\n $BACKUP Producto no tiene nombre. Escogiendo uno al azar. $NC \n"
@@ -149,6 +158,7 @@ then
 							productName="$randomName-$randomID"
 						fi
 
+						#Si la descripcion esta vacia, se le asigna una
 						if [ -z "$productDescription" ]
 						then
 							printf "\n $BACKUP Producto no tiene descripcion. Escogiendo una al azar. $NC \n"
@@ -176,6 +186,7 @@ then
 
 						curlResult=$(jq -r ".status" Products/TN-$productName.json)
 
+						#Si ha sido exitoso se pasa a verificar que hayan los archivos, sino, se crean
 						if [ "$curlResult" = "success" ]
 		                                then
 
@@ -196,7 +207,7 @@ then
 								printf " «············»“ Productos - $CURRENTDATE ”«············»\n" >> Venta-Productos/venta-productos-$CURRENTDATE.txt 
 							fi
 
-
+							#Obtener las propiedas del json de productos
 							printf "\n $CONFIRMATION Producto creado con exito.$NC \n $INFO Imprimiendo producto. $NC \n"
 							jq . Products/TN-$productName.json
 
@@ -224,9 +235,11 @@ then
 					done
 					printf "\n TOTAL $ $totalPrice\n «············»“ FIN NOTA - PRODUCTOS ”«············»\n" >> Venta-Productos/venta-productos-$CURRENTDATE.txt
 
+					#Preguntar si se desea hacer una copia del archivo de compras
 					printf "\n $INFO Desea hacer una copia de su archivo de compra?$ (Escriba SI o 1 para aceptar).$NC \n Eleccion:"
 					read CHOICECOMPRAS
 
+					#Si la respuesta es que confirmativa, se verifica/crea la carpeta donde se crea la copia 
 					if [ "$CHOICECOMPRAS" = "1" ] || [ "$CHOICECOMPRAS" = "SI" ]
 					then
 						if [ -d "./Compras" ]
@@ -245,10 +258,12 @@ then
 					exit
 				fi
 			else
+				#Si la contraseña fue incorrecta se cierra
 				printf "\n $ERROR Password doesnt match. Try again $NC \n"
 				sleep 6s
 			fi
 		else
+			#Si el usuario es incorrecto se muestran los usuarios del archivo
 			printf "\n $ERROR $username.json no encontrado en UsersInfo. Por-favor elija uno de los siguientes usuarios. $NC \n"
                         tree ./UsersInfo
 			passwordCheck=$RANDOM
