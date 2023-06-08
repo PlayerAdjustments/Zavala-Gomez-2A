@@ -36,12 +36,12 @@ done
 
 if [ "$choice" = "1" ]
 then
-	printf "\n «············»“ Crea una nueva cuenta ”«············» \n $INFO En caso de dejar vacio el username, el usuario sera 'Default y un numero random'. \n $INFO En caso de dejar vacio password, la contraseña sera 'Default'. $NC\n  Username: "
+	printf "\n «············»“ Crea una nueva cuenta ”«············» \n $INFO En caso de dejar vacio el username o tener espacios en este ultimo, el usuario sera 'Default y un numero random'. \n $INFO En caso de dejar vacio password, la contraseña sera 'Default'. $NC\n  Username: "
 	read username
 	printf "\n  Password: "
 	read password
 
-	if [[ "$username" =~ ^"@gmail.com".* ]] || [ -z "$username" ]
+	if [[ "$username" =~ ^"@gmail.com".* ]] || [ -z "$username" ] || [[ "$username" = *" "* ]]
 	then
 		username="Default-$(( ( RANDOM ) + 1 ))@gmail.com"
 	else
