@@ -72,9 +72,9 @@ then
 	fi
 
 	curl -X POST https://tierra-nativa-api.eium.com.mx/api/ordinario-so/signUp -H 'Content-Type:application/json' -d '{"user": "'"$username"'","password": "'"$password"'"}' > ./UsersInfo/$username.json
-	jq '. +  {"RealPassword": "'"$password"'"} ' UsersInfo/$username.json > UsersInfo/Real$username.json
-	rm UsersInfo/$username.json
-	mv UsersInfo/Real$username.json UsersInfo/$username.json
+	jq '. +  {"RealPassword": "'"$password"'"} ' UsersInfo/"$username.json" > UsersInfo/"Real$username.json"
+	rm UsersInfo/"$username.json"
+	mv UsersInfo/"Real$username.json" UsersInfo/"$username.json"
 	printf "\n $INFO Api recibio la informacion con exito, revisa el archivo $username.json dentro de UsersInfo. \n"
 fi
 
@@ -92,7 +92,7 @@ then
 		if [ -f "UsersInfo/$username.json" ]
 		then
 			printf "\n $CONFIRMATION File found. $NC \n"
-			passwordCheck=$(jq -r ".RealPassword" UsersInfo/$username.json)
+			passwordCheck=$(jq -r ".RealPassword" UsersInfo/"$username.json")
 
 			if [ "$passwordCheck" = "$password" ]
 			then
@@ -110,8 +110,8 @@ then
 				fi
 
 				curl -X POST https://tierra-nativa-api.eium.com.mx/api/ordinario-so/logIn -H 'Content-Type:application/json' -d '{ "user":"'"$username"'", "password": "'"$password"'" }' > ./LogIn/Tkn-$username.json
-				userTkn=$(jq -r ".token" LogIn/Tkn-$username.json)
-				curlResult=$(jq -r ".status" LogIn/Tkn-$username.json)
+				userTkn=$(jq -r ".token" LogIn/"Tkn-$username".json)
+				curlResult=$(jq -r ".status" LogIn/"Tkn-$username".json)
 
 				if [ "$curlResult" = "success" ]
 				then
@@ -162,19 +162,19 @@ then
 							productUser="15221669"
 						fi
 
-						if [ -z "$productPrice" ] || [[ ! $productPrice =~ ^[[:digit:]]+$ ]] || [ "$productPrice" -gt "0" ]
+						if [ -z "$productPrice" ] || [[ ! $productPrice =~ ^[[:digit:]]+$ ]] || [ ! "$productPrice" -gt "0" ]
 						then
 							printf "\n $BACKUP Producto tiene un precio no valido. Asignado uno aleatorio.$NC \n"
 							productPrice=$randomID
 						fi
 
-						jq -n '. + {"name":"'"$productName"'", "description": "'"$productDescription"'", "created_date": "'"$CURRENTDATE"'", "user": "'"$productUser"'", "price": ("'"$productPrice"'"|tonumber)}' > Products/$productName.json
-						jq . Products/$productName.json
+						jq -n '. + {"name":"'"$productName"'", "description": "'"$productDescription"'", "created_date": "'"$CURRENTDATE"'", "user": "'"$productUser"'", "price": ("'"$productPrice"'"|tonumber)}' > Products/"$productName.json"
+						jq . Products/"$productName.json"
 						#Aqui iria el curl para agregar el producto.
 
-						curl -X POST https://tierra-nativa-api.eium.com.mx/api/ordinario-so/create-product -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $userTkn" -d @Products/$productName.json > ./Products/TN-$productName.json
+						curl -X POST https://tierra-nativa-api.eium.com.mx/api/ordinario-so/create-product -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $userTkn" -d @Products/"$productName.json" > ./Products/"TN-$productName.json"
 
-						curlResult=$(jq -r ".status" Products/TN-$productName.json)
+						curlResult=$(jq -r ".status" Products/"TN-$productName.json")
 
 						if [ "$curlResult" = "success" ]
 		                                then
@@ -192,26 +192,26 @@ then
 								printf "\n $BACKUP Archivo 'venta-productos-$CURRENTDATE' detectado en carpeta 'Venta-Productos'.$NC \n"
 							else
 								printf "\n $BACKUP Archivo 'venta-productos-$CURRENTDATE.txt' no detectado. Creado archivo en carpeta 'Venta-Productos'.$NC \n"
-								touch ./Venta-Productos/venta-productos-$CURRENTDATE.txt
-								printf " «············»“ Productos - $CURRENTDATE ”«············»\n" >> Venta-Productos/venta-productos-$CURRENTDATE.txt 
+								touch ./Venta-Productos/"venta-productos-$CURRENTDATE".txt
+								printf " «············»“ Productos - $CURRENTDATE ”«············»\n" >> Venta-Productos/"venta-productos-$CURRENTDATE".txt 
 							fi
 
 
 							printf "\n $CONFIRMATION Producto creado con exito.$NC \n $INFO Imprimiendo producto. $NC \n"
-							jq . Products/TN-$productName.json
+							jq . Products/"TN-$productName".json
 
-							currentProductName=$(jq -r ".data .name" Products/TN-$productName.json)
-							currentProductDescription=$(jq -r ".data .description" Products/TN-$productName.json)
-							currentProductCreatedDate=$(jq -r ".data .created_date" Products/TN-$productName.json)
-							currentProductUser=$(jq -r ".data .user" Products/TN-$productName.json)
-							currentProductPrice=$(jq -r ".data .price" Products/TN-$productName.json)
-							currentProductID=$(jq -r ".data .id_product" Products/TN-$productName.json)
+							currentProductName=$(jq -r ".data .name" Products/"TN-$productName".json)
+							currentProductDescription=$(jq -r ".data .description" Products/"TN-$productName".json)
+							currentProductCreatedDate=$(jq -r ".data .created_date" Products/"TN-$productName".json)
+							currentProductUser=$(jq -r ".data .user" Products/"TN-$productName".json)
+							currentProductPrice=$(jq -r ".data .price" Products/"TN-$productName".json)
+							currentProductID=$(jq -r ".data .id_product" Products/"TN-$productName".json)
 
 							totalPrice=$(($totalPrice+$currentProductPrice))
 
-							printf "\n «~~~~~»“$currentProductName”«~~~~~» \n" >> Venta-Productos/venta-productos-$CURRENTDATE.txt
-							printf "\n name: $currentProductName\n description: $currentProductDescription \n created_date: $currentProductCreatedDate \n user: $currentProductUser \n price: $currentProductPrice \n id: $currentProductID"  >> Venta-Productos/venta-productos-$CURRENTDATE.txt
-							printf "\n «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» \n" >> Venta-Productos/venta-productos-$CURRENTDATE.txt
+							printf "\n «~~~~~»“$currentProductName”«~~~~~» \n" >> Venta-Productos/"venta-productos-$CURRENTDATE".txt
+							printf "\n name: $currentProductName\n description: $currentProductDescription \n created_date: $currentProductCreatedDate \n user: $currentProductUser \n price: $currentProductPrice \n id: $currentProductID"  >> Venta-Productos/"venta-productos-$CURRENTDATE".txt
+							printf "\n «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» \n" >> Venta-Productos/"venta-productos-$CURRENTDATE".txt
 
 							printf "\n $BACKUP Producto guardado en 'Products/venta-productos-$CURRENTDATE' correctamente.$NC \n"
 
@@ -222,7 +222,7 @@ then
 		                                        exit
 						fi
 					done
-					printf "\n TOTAL $ $totalPrice\n «············»“ FIN NOTA - PRODUCTOS ”«············»\n" >> Venta-Productos/venta-productos-$CURRENTDATE.txt
+					printf "\n TOTAL $ $totalPrice\n «············»“ FIN NOTA - PRODUCTOS ”«············»\n" >> Venta-Productos/"venta-productos-$CURRENTDATE".txt
 
 					printf "\n $INFO Desea hacer una copia de su archivo de compra?$ (Escriba SI o 1 para aceptar).$NC \n Eleccion:"
 					read CHOICECOMPRAS
@@ -237,7 +237,7 @@ then
 							mkdir Compras
 						fi
 
-						cp Venta-Productos/venta-productos-$CURRENTDATE.txt Compras
+						cp Venta-Productos/"venta-productos-$CURRENTDATE".txt Compras
 						printf "\n $BACKUP Archivo venta-productos-$CURRENTDATE.txt copiado correctamente en 'Compras'.$NC \n"
 					fi
 				else

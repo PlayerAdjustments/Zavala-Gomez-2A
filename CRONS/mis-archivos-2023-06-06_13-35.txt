@@ -1,0 +1,553 @@
+ «············»“ Productos - 2023-06-06_13-35 ”«············»
+
+ «············» [1;95m [MATRICULA] [0:95m 54219247 «············» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 43
+ name: Pan
+ description: duro 
+ created_date: 2023-05-23 
+ user: 54219247 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 37
+ name: pantalon
+ description: de mezclilla 
+ created_date: 2023-05-23 
+ user: 54219247 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 36
+ name: camisa
+ description: de vestir 
+ created_date: 2023-05-23 
+ user: 54219247 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 31
+ name: chocolate
+ description: de crema 
+ created_date: 2023-05-23 
+ user: 54219247 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 71
+ name: iphone2
+ description: blanco 
+ created_date: 2023-06-01 
+ user: 54219247 
+ price: 5000 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 72
+ name: AirpodsPro
+ description: Blancos 
+ created_date: 2023-06-01 
+ user: 54219247 
+ price: 6000 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 73
+ name: HomePod
+ description: color medianoche 
+ created_date: 2023-06-01 
+ user: 54219247 
+ price: 6900 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 74
+ name: homePodMini
+ description: amarillo 
+ created_date: 2023-06-01 
+ user: 54219247 
+ price: 2300 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 75
+ name: AirPodsMax
+ description: blancos 
+ created_date: 2023-06-01 
+ user: 54219247 
+ price: 13700 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 76
+ name: Funda
+ description: amarilla 
+ created_date: 2023-06-01 
+ user: 54219247 
+ price: 1300 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 77
+ name: Correa Deportiva
+ description: 41mm 
+ created_date: 2023-06-02 
+ user: 54219247 
+ price: 1200 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 78
+ name: Correa pride
+ description: 45mm 
+ created_date: 2023-06-02 
+ user: 54219247 
+ price: 1200 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 79
+ name: Mouse
+ description: blanco y negro 
+ created_date: 2023-06-02 
+ user: 54219247 
+ price: 700 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221673 «············» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 42
+ name: pokemon
+ description: es un animal que te ayudará en lo que quieras 
+ created_date: 2023-05-23 
+ user: 15221673 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221403 «············» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 35
+ name: guante
+ description: guante para invierno 
+ created_date: 2023-05-23 
+ user: 15221403 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 34
+ name: zapato
+ description: bota para vestir 
+ created_date: 2023-05-23 
+ user: 15221403 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 32
+ name: dulce
+ description: dulce acido 
+ created_date: 2023-05-23 
+ user: 15221403 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222160 «············» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 40
+ name: cyndaquill
+ description: tipo fuego 
+ created_date: 2023-05-23 
+ user: 15222160 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 39
+ name: mawhile
+ description: es tipo acero hada 
+ created_date: 2023-05-23 
+ user: 15222160 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 33
+ name: bulbasaur
+ description: es un pokemon el primero 
+ created_date: 2023-05-23 
+ user: 15222160 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 14197923 «············» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 66
+ name: pizza
+ description: comida 
+ created_date: 2023-05-23 
+ user: 14197923 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222623 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221666 «············» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 38
+ name: anagomez
+ description: examen3 
+ created_date: 2023-05-23 
+ user: 15221666 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222605 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 13160606 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222385 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221710 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222733 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222136 «············» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 65
+ name: riqi
+ description: descripcion1 
+ created_date: 2023-05-23 
+ user: 15222136 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15209883 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222137 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222207 «············» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 56
+ name: vector
+ description: Es un tema de algebra 
+ created_date: 2023-05-23 
+ user: 15222207 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222734 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222100 «············» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 46
+ name: sdfsgsg
+ description: hdgehsh 
+ created_date: 2023-05-23 
+ user: 15222100 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 47
+ name: fslfkjs
+ description: oienfwef 
+ created_date: 2023-05-23 
+ user: 15222100 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 45
+ name: fsfs
+ description: sgsghrherg 
+ created_date: 2023-05-23 
+ user: 15222100 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 44
+ name: jfsf
+ description: fsgsg 
+ created_date: 2023-05-23 
+ user: 15222100 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 48
+ name: pato
+ description: animal 
+ created_date: 2023-05-23 
+ user: 15222100 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221672 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221310 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221428 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222607 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 13160815 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221664 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221661 «············» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 91
+ name: Barbie
+ description: muñeca barbie doctora 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 250 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 92
+ name: lego-starwars-yorli
+ description: set lego de star wars 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 300 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 93
+ name: Lego-harrypotter-yorli
+ description: set de legos basados en harry potter 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 210 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 94
+ name: my_little_pony_yor
+ description: set de my little pony 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 240 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 95
+ name: casita_rositafresita
+ description: casa de juguete de rosita fresita 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 145 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 96
+ name: Microhornito
+ description: horno de juguete 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 230 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 97
+ name: cocinita
+ description: cocina de juguete 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 560 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 98
+ name: peluche
+ description: peluche osito cariñosito 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 230 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“��«~~~~~» 
+
+ id: 99
+ name: plastelina-yor
+ description: plastelina color rosa 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 30 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221664 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221661 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222119 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222431 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222103 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222431 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222103 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222195 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221663 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222101 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 152211667 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221669 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15198855 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» «·····················» «············» 

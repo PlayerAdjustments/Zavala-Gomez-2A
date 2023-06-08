@@ -1,0 +1,1896 @@
+ «············»“ Productos - 2023-06-07_19-30 ”«············»
+
+ «············» [1;95m [MATRICULA] [0:95m 54219247 «············» 
+
+ «~~~~~»“ Pan ”«~~~~~» 
+
+ id: 43
+ name: Pan
+ description: duro 
+ created_date: 2023-05-23 
+ user: 54219247 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ pantalon ”«~~~~~» 
+
+ id: 37
+ name: pantalon
+ description: de mezclilla 
+ created_date: 2023-05-23 
+ user: 54219247 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ camisa ”«~~~~~» 
+
+ id: 36
+ name: camisa
+ description: de vestir 
+ created_date: 2023-05-23 
+ user: 54219247 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ chocolate ”«~~~~~» 
+
+ id: 31
+ name: chocolate
+ description: de crema 
+ created_date: 2023-05-23 
+ user: 54219247 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ iphone2 ”«~~~~~» 
+
+ id: 71
+ name: iphone2
+ description: blanco 
+ created_date: 2023-06-01 
+ user: 54219247 
+ price: 5000 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ AirpodsPro ”«~~~~~» 
+
+ id: 72
+ name: AirpodsPro
+ description: Blancos 
+ created_date: 2023-06-01 
+ user: 54219247 
+ price: 6000 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ HomePod ”«~~~~~» 
+
+ id: 73
+ name: HomePod
+ description: color medianoche 
+ created_date: 2023-06-01 
+ user: 54219247 
+ price: 6900 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ homePodMini ”«~~~~~» 
+
+ id: 74
+ name: homePodMini
+ description: amarillo 
+ created_date: 2023-06-01 
+ user: 54219247 
+ price: 2300 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ AirPodsMax ”«~~~~~» 
+
+ id: 75
+ name: AirPodsMax
+ description: blancos 
+ created_date: 2023-06-01 
+ user: 54219247 
+ price: 13700 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Funda ”«~~~~~» 
+
+ id: 76
+ name: Funda
+ description: amarilla 
+ created_date: 2023-06-01 
+ user: 54219247 
+ price: 1300 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Correa Deportiva ”«~~~~~» 
+
+ id: 77
+ name: Correa Deportiva
+ description: 41mm 
+ created_date: 2023-06-02 
+ user: 54219247 
+ price: 1200 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Correa pride ”«~~~~~» 
+
+ id: 78
+ name: Correa pride
+ description: 45mm 
+ created_date: 2023-06-02 
+ user: 54219247 
+ price: 1200 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Mouse ”«~~~~~» 
+
+ id: 79
+ name: Mouse
+ description: blanco y negro 
+ created_date: 2023-06-02 
+ user: 54219247 
+ price: 700 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Airtag ”«~~~~~» 
+
+ id: 102
+ name: Airtag
+ description: blanco 
+ created_date: 2023-06-06 
+ user: 54219247 
+ price: 750 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Llavero Airtag ”«~~~~~» 
+
+ id: 104
+ name: Llavero Airtag
+ description: blanco 
+ created_date: 2023-06-06 
+ user: 54219247 
+ price: 950 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221673 «············» 
+
+ «~~~~~»“ pokemon ”«~~~~~» 
+
+ id: 42
+ name: pokemon
+ description: es un animal que te ayudará en lo que quieras 
+ created_date: 2023-05-23 
+ user: 15221673 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221403 «············» 
+
+ «~~~~~»“ guante ”«~~~~~» 
+
+ id: 35
+ name: guante
+ description: guante para invierno 
+ created_date: 2023-05-23 
+ user: 15221403 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ zapato ”«~~~~~» 
+
+ id: 34
+ name: zapato
+ description: bota para vestir 
+ created_date: 2023-05-23 
+ user: 15221403 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ dulce ”«~~~~~» 
+
+ id: 32
+ name: dulce
+ description: dulce acido 
+ created_date: 2023-05-23 
+ user: 15221403 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222160 «············» 
+
+ «~~~~~»“ cyndaquill ”«~~~~~» 
+
+ id: 40
+ name: cyndaquill
+ description: tipo fuego 
+ created_date: 2023-05-23 
+ user: 15222160 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ mawhile ”«~~~~~» 
+
+ id: 39
+ name: mawhile
+ description: es tipo acero hada 
+ created_date: 2023-05-23 
+ user: 15222160 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ bulbasaur ”«~~~~~» 
+
+ id: 33
+ name: bulbasaur
+ description: es un pokemon el primero 
+ created_date: 2023-05-23 
+ user: 15222160 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 14197923 «············» 
+
+ «~~~~~»“ pizza ”«~~~~~» 
+
+ id: 66
+ name: pizza
+ description: comida 
+ created_date: 2023-05-23 
+ user: 14197923 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222623 «············» 
+
+ «~~~~~»“ PANFLETOLAMASCOTA ”«~~~~~» 
+
+ id: 49
+ name: PANFLETOLAMASCOTA
+ description: ESUNPANFLETO 
+ created_date: 2023-05-23 
+ user: 15222623 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ terminado ”«~~~~~» 
+
+ id: 53
+ name: terminado
+ description: wena 
+ created_date: 2023-05-23 
+ user: 15222623 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ wAWA ”«~~~~~» 
+
+ id: 58
+ name: wAWA
+ description: wawita 
+ created_date: 2023-05-23 
+ user: 15222623 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ bolsa ”«~~~~~» 
+
+ id: 112
+ name: bolsa
+ description: cara 
+ created_date: 2023-06-06 
+ user: 15222623 
+ price: 100 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ mochila ”«~~~~~» 
+
+ id: 113
+ name: mochila
+ description: barato 
+ created_date: 2023-06-06 
+ user: 15222623 
+ price: 200 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ pila ”«~~~~~» 
+
+ id: 114
+ name: pila
+ description: caro 
+ created_date: 2023-06-06 
+ user: 15222623 
+ price: 10 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ coche ”«~~~~~» 
+
+ id: 115
+ name: coche
+ description: simple 
+ created_date: 2023-06-06 
+ user: 15222623 
+ price: 300 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ papel ”«~~~~~» 
+
+ id: 116
+ name: papel
+ description: suave 
+ created_date: 2023-06-06 
+ user: 15222623 
+ price: 19 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ sandalias ”«~~~~~» 
+
+ id: 117
+ name: sandalias
+ description: ropa 
+ created_date: 2023-06-06 
+ user: 15222623 
+ price: 150 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ juguete ”«~~~~~» 
+
+ id: 118
+ name: juguete
+ description: salir 
+ created_date: 2023-06-06 
+ user: 15222623 
+ price: 100 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ ropa ”«~~~~~» 
+
+ id: 119
+ name: ropa
+ description: ligera 
+ created_date: 2023-06-07 
+ user: 15222623 
+ price: 300 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ piedra ”«~~~~~» 
+
+ id: 120
+ name: piedra
+ description: dura 
+ created_date: 2023-06-07 
+ user: 15222623 
+ price: 10 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ gato ”«~~~~~» 
+
+ id: 121
+ name: gato
+ description: peludo 
+ created_date: 2023-06-07 
+ user: 15222623 
+ price: 10 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ musica ”«~~~~~» 
+
+ id: 122
+ name: musica
+ description: ruido 
+ created_date: 2023-06-07 
+ user: 15222623 
+ price: 200 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ koala ”«~~~~~» 
+
+ id: 123
+ name: koala
+ description: animal 
+ created_date: 2023-06-07 
+ user: 15222623 
+ price: 200 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ patineta ”«~~~~~» 
+
+ id: 124
+ name: patineta
+ description: peligro 
+ created_date: 2023-06-07 
+ user: 15222623 
+ price: 400 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ sueter ”«~~~~~» 
+
+ id: 125
+ name: sueter
+ description: calor 
+ created_date: 2023-06-07 
+ user: 15222623 
+ price: 300 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ brusa ”«~~~~~» 
+
+ id: 126
+ name: brusa
+ description: ropa 
+ created_date: 2023-06-07 
+ user: 15222623 
+ price: 100 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ robot ”«~~~~~» 
+
+ id: 160
+ name: robot
+ description: juguete 
+ created_date: 2023-06-07 
+ user: 15222623 
+ price: 200 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221666 «············» 
+
+ «~~~~~»“ anagomez ”«~~~~~» 
+
+ id: 38
+ name: anagomez
+ description: examen3 
+ created_date: 2023-05-23 
+ user: 15221666 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222605 «············» 
+
+ «~~~~~»“ fdgggfgfsfg1 ”«~~~~~» 
+
+ id: 68
+ name: fdgggfgfsfg1
+ description: fgfggfgf 
+ created_date: 2023-05-22 
+ user: 15222605 
+ price: 20 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ product 2 ”«~~~~~» 
+
+ id: 69
+ name: product 2
+ description: descripcion del producto 1 
+ created_date: 2023-05-22 
+ user: 15222605 
+ price: 20 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ product 4 ”«~~~~~» 
+
+ id: 70
+ name: product 4
+ description: descripcion del producto 1 
+ created_date: 2023-05-22 
+ user: 15222605 
+ price: 20 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 13160606 «············» 
+
+ «~~~~~»“ papas ”«~~~~~» 
+
+ id: 50
+ name: papas
+ description: buenasybaratas 
+ created_date: 2023-05-23 
+ user: 13160606 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ computadorass ”«~~~~~» 
+
+ id: 51
+ name: computadorass
+ description: buenas computadoras 
+ created_date: 2023-05-23 
+ user: 13160606 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222385 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221710 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222733 «············» 
+
+ «~~~~~»“ mora ”«~~~~~» 
+
+ id: 54
+ name: mora
+ description: modelito 
+ created_date: 2023-05-23 
+ user: 15222733 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ toni ”«~~~~~» 
+
+ id: 55
+ name: toni
+ description: panda 
+ created_date: 2023-05-23 
+ user: 15222733 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ DTS ”«~~~~~» 
+
+ id: 60
+ name: DTS
+ description: examen 
+ created_date: 2023-05-23 
+ user: 15222733 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ messi ”«~~~~~» 
+
+ id: 61
+ name: messi
+ description: psg 
+ created_date: 2023-05-23 
+ user: 15222733 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ tostachos ”«~~~~~» 
+
+ id: 62
+ name: tostachos
+ description: papas 
+ created_date: 2023-05-23 
+ user: 15222733 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ MBAPPE ”«~~~~~» 
+
+ id: 63
+ name: MBAPPE
+ description: goleador 
+ created_date: 2023-05-23 
+ user: 15222733 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ eladio ”«~~~~~» 
+
+ id: 64
+ name: eladio
+ description: carrion 
+ created_date: 2023-05-23 
+ user: 15222733 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ joseantonio ”«~~~~~» 
+
+ id: 67
+ name: joseantonio
+ description: ordazPEREZ 
+ created_date: 2023-05-23 
+ user: 15222733 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222136 «············» 
+
+ «~~~~~»“ riqi ”«~~~~~» 
+
+ id: 65
+ name: riqi
+ description: descripcion1 
+ created_date: 2023-05-23 
+ user: 15222136 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15209883 «············» 
+
+ «~~~~~»“ Hola ”«~~~~~» 
+
+ id: 41
+ name: Hola
+ description: Hola 
+ created_date: 2023-05-23 
+ user: 15209883 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Uvas ”«~~~~~» 
+
+ id: 57
+ name: Uvas
+ description: Uvas frescas 
+ created_date: 2023-05-23 
+ user: 15209883 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ ola ”«~~~~~» 
+
+ id: 59
+ name: ola
+ description: ola 
+ created_date: 2023-05-23 
+ user: 15209883 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222137 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222207 «············» 
+
+ «~~~~~»“ vector ”«~~~~~» 
+
+ id: 56
+ name: vector
+ description: Es un tema de algebra 
+ created_date: 2023-05-23 
+ user: 15222207 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222734 «············» 
+
+ «~~~~~»“ Adrian ”«~~~~~» 
+
+ id: 52
+ name: Adrian
+ description: Funcionara 
+ created_date: 2023-05-23 
+ user: 15222734 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222100 «············» 
+
+ «~~~~~»“ sdfsgsg ”«~~~~~» 
+
+ id: 46
+ name: sdfsgsg
+ description: hdgehsh 
+ created_date: 2023-05-23 
+ user: 15222100 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ fslfkjs ”«~~~~~» 
+
+ id: 47
+ name: fslfkjs
+ description: oienfwef 
+ created_date: 2023-05-23 
+ user: 15222100 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ fsfs ”«~~~~~» 
+
+ id: 45
+ name: fsfs
+ description: sgsghrherg 
+ created_date: 2023-05-23 
+ user: 15222100 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ jfsf ”«~~~~~» 
+
+ id: 44
+ name: jfsf
+ description: fsgsg 
+ created_date: 2023-05-23 
+ user: 15222100 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ pato ”«~~~~~» 
+
+ id: 48
+ name: pato
+ description: animal 
+ created_date: 2023-05-23 
+ user: 15222100 
+ price: null 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221672 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221310 «············» 
+
+ «~~~~~»“ ethernet ”«~~~~~» 
+
+ id: 157
+ name: ethernet
+ description: cable para internet 
+ created_date: 2023-06-07 
+ user: 15221310 
+ price: 79 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221428 «············» 
+
+ «~~~~~»“ Cargador tipo w ”«~~~~~» 
+
+ id: 132
+ name: Cargador tipo w
+ description: un cargador para compus del futuro 
+ created_date: 2023-06-07 
+ user: 15221428 
+ price: 40 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222607 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 13160815 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221664 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221661 «············» 
+
+ «~~~~~»“ Barbie ”«~~~~~» 
+
+ id: 91
+ name: Barbie
+ description: muñeca barbie doctora 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 250 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ lego-starwars-yorli ”«~~~~~» 
+
+ id: 92
+ name: lego-starwars-yorli
+ description: set lego de star wars 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 300 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Lego-harrypotter-yorli ”«~~~~~» 
+
+ id: 93
+ name: Lego-harrypotter-yorli
+ description: set de legos basados en harry potter 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 210 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ my_little_pony_yor ”«~~~~~» 
+
+ id: 94
+ name: my_little_pony_yor
+ description: set de my little pony 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 240 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ casita_rositafresita ”«~~~~~» 
+
+ id: 95
+ name: casita_rositafresita
+ description: casa de juguete de rosita fresita 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 145 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Microhornito ”«~~~~~» 
+
+ id: 96
+ name: Microhornito
+ description: horno de juguete 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 230 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ cocinita ”«~~~~~» 
+
+ id: 97
+ name: cocinita
+ description: cocina de juguete 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 560 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ peluche ”«~~~~~» 
+
+ id: 98
+ name: peluche
+ description: peluche osito cariñosito 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 230 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ plastelina-yor ”«~~~~~» 
+
+ id: 99
+ name: plastelina-yor
+ description: plastelina color rosa 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 30 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ polly-pocket-yorli ”«~~~~~» 
+
+ id: 158
+ name: polly-pocket-yorli
+ description: muñecas polly pocket 
+ created_date: 2023-06-07 
+ user: 15221661 
+ price: 150 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ lego-batman-yorli ”«~~~~~» 
+
+ id: 159
+ name: lego-batman-yorli
+ description: set lego de batman 
+ created_date: 2023-06-07 
+ user: 15221661 
+ price: 289 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ jenga-yor ”«~~~~~» 
+
+ id: 161
+ name: jenga-yor
+ description: jenga 
+ created_date: 2023-06-07 
+ user: 15221661 
+ price: 221 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ monopoli-yor ”«~~~~~» 
+
+ id: 162
+ name: monopoli-yor
+ description: 156 
+ created_date: 2023-06-07 
+ user: 15221661 
+ price: 231 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221664 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221661 «············» 
+
+ «~~~~~»“ Barbie ”«~~~~~» 
+
+ id: 91
+ name: Barbie
+ description: muñeca barbie doctora 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 250 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ lego-starwars-yorli ”«~~~~~» 
+
+ id: 92
+ name: lego-starwars-yorli
+ description: set lego de star wars 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 300 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Lego-harrypotter-yorli ”«~~~~~» 
+
+ id: 93
+ name: Lego-harrypotter-yorli
+ description: set de legos basados en harry potter 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 210 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ my_little_pony_yor ”«~~~~~» 
+
+ id: 94
+ name: my_little_pony_yor
+ description: set de my little pony 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 240 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ casita_rositafresita ”«~~~~~» 
+
+ id: 95
+ name: casita_rositafresita
+ description: casa de juguete de rosita fresita 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 145 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Microhornito ”«~~~~~» 
+
+ id: 96
+ name: Microhornito
+ description: horno de juguete 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 230 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ cocinita ”«~~~~~» 
+
+ id: 97
+ name: cocinita
+ description: cocina de juguete 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 560 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ peluche ”«~~~~~» 
+
+ id: 98
+ name: peluche
+ description: peluche osito cariñosito 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 230 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ plastelina-yor ”«~~~~~» 
+
+ id: 99
+ name: plastelina-yor
+ description: plastelina color rosa 
+ created_date: 2023-06-05 
+ user: 15221661 
+ price: 30 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ polly-pocket-yorli ”«~~~~~» 
+
+ id: 158
+ name: polly-pocket-yorli
+ description: muñecas polly pocket 
+ created_date: 2023-06-07 
+ user: 15221661 
+ price: 150 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ lego-batman-yorli ”«~~~~~» 
+
+ id: 159
+ name: lego-batman-yorli
+ description: set lego de batman 
+ created_date: 2023-06-07 
+ user: 15221661 
+ price: 289 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ jenga-yor ”«~~~~~» 
+
+ id: 161
+ name: jenga-yor
+ description: jenga 
+ created_date: 2023-06-07 
+ user: 15221661 
+ price: 221 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ monopoli-yor ”«~~~~~» 
+
+ id: 162
+ name: monopoli-yor
+ description: 156 
+ created_date: 2023-06-07 
+ user: 15221661 
+ price: 231 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222119 «············» 
+
+ «~~~~~»“ Devour ”«~~~~~» 
+
+ id: 131
+ name: Devour
+ description: Videojuego de terror multijugador 
+ created_date: 2023-06-07 
+ user: 15222119 
+ price: 59 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Fall Guys ”«~~~~~» 
+
+ id: 133
+ name: Fall Guys
+ description: Videojuego multijugador de diferentes minijuegos 
+ created_date: 2023-06-07 
+ user: 15222119 
+ price: 249 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Resident evil 4 ”«~~~~~» 
+
+ id: 134
+ name: Resident evil 4
+ description: juego de zombies y de terror 
+ created_date: 2023-06-07 
+ user: 15222119 
+ price: 399 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ HP1 ”«~~~~~» 
+
+ id: 135
+ name: HP1
+ description: videojuego de la saga de Harry Potter 
+ created_date: 2023-06-07 
+ user: 15222119 
+ price: 20 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ The Oca Game ”«~~~~~» 
+
+ id: 136
+ name: The Oca Game
+ description: EL juego de la oca remasterizado 
+ created_date: 2023-06-07 
+ user: 15222119 
+ price: 200 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Harry the potter ”«~~~~~» 
+
+ id: 137
+ name: Harry the potter
+ description: Juego pirata de harry potter 
+ created_date: 2023-06-07 
+ user: 15222119 
+ price: 20 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Solitario ”«~~~~~» 
+
+ id: 140
+ name: Solitario
+ description: Juego de cartas para gente solitaria 
+ created_date: 2023-06-07 
+ user: 15222119 
+ price: 30 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Texas Poker ”«~~~~~» 
+
+ id: 141
+ name: Texas Poker
+ description: Juego de cartas ideal para apuestas 
+ created_date: 2023-06-07 
+ user: 15222119 
+ price: 123 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ UNO the game ”«~~~~~» 
+
+ id: 142
+ name: UNO the game
+ description: Juego de cartas ONLINE 
+ created_date: 2023-06-07 
+ user: 15222119 
+ price: 300 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Buscaminas 2 ”«~~~~~» 
+
+ id: 143
+ name: Buscaminas 2
+ description: La secuela de el legendario juego 
+ created_date: 2023-06-07 
+ user: 15222119 
+ price: 1299 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Loteria ”«~~~~~» 
+
+ id: 144
+ name: Loteria
+ description: El juego de la loteria para xbox 
+ created_date: 2023-06-07 
+ user: 15222119 
+ price: 59 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Left 4 Dead ”«~~~~~» 
+
+ id: 145
+ name: Left 4 Dead
+ description: Juego de Zombies 
+ created_date: 2023-06-07 
+ user: 15222119 
+ price: 300 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222431 «············» 
+
+ «~~~~~»“ tele ”«~~~~~» 
+
+ id: 103
+ name: tele
+ description: ver 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 12356 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ radio ”«~~~~~» 
+
+ id: 105
+ name: radio
+ description: escuchar 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 400 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ micro ”«~~~~~» 
+
+ id: 106
+ name: micro
+ description: calienta 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 700 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ estufa ”«~~~~~» 
+
+ id: 107
+ name: estufa
+ description: caliente 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 13254 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ refri ”«~~~~~» 
+
+ id: 108
+ name: refri
+ description: frio 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 235 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ celular ”«~~~~~» 
+
+ id: 109
+ name: celular
+ description: ver 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 12356 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ compu ”«~~~~~» 
+
+ id: 110
+ name: compu
+ description: tarea 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 234134 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ aire ”«~~~~~» 
+
+ id: 111
+ name: aire
+ description: frio 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 123124 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Lap ”«~~~~~» 
+
+ id: 127
+ name: Lap
+ description: tareas 
+ created_date: 2023-06-07 
+ user: 15222431 
+ price: 3525 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ bocina ”«~~~~~» 
+
+ id: 128
+ name: bocina
+ description: escucha 
+ created_date: 2023-06-07 
+ user: 15222431 
+ price: 124 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ consola ”«~~~~~» 
+
+ id: 129
+ name: consola
+ description: juego 
+ created_date: 2023-06-07 
+ user: 15222431 
+ price: 34524 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ xbox ”«~~~~~» 
+
+ id: 130
+ name: xbox
+ description: jugar 
+ created_date: 2023-06-07 
+ user: 15222431 
+ price: 14354 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222103 «············» 
+
+ «~~~~~»“ poot-te ”«~~~~~» 
+
+ id: 138
+ name: poot-te
+ description: delicioso te 
+ created_date: 2023-06-07 
+ user: 15222103 
+ price: 2503 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Cafeylin ”«~~~~~» 
+
+ id: 139
+ name: Cafeylin
+ description: cafe americano 
+ created_date: 2023-06-07 
+ user: 15222103 
+ price: 13995 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Rosca-Poot-7114 ”«~~~~~» 
+
+ id: 156
+ name: Rosca-Poot-7114
+ description: Unico e inigualable-7114 
+ created_date: 2023-06-07 
+ user: 15222103 
+ price: 7114 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Me-ffin-27231 ”«~~~~~» 
+
+ id: 164
+ name: Me-ffin-27231
+ description: Para chuparse los dedos-27231 
+ created_date: 2023-06-07 
+ user: 15222103 
+ price: 27231 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222431 «············» 
+
+ «~~~~~»“ tele ”«~~~~~» 
+
+ id: 103
+ name: tele
+ description: ver 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 12356 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ radio ”«~~~~~» 
+
+ id: 105
+ name: radio
+ description: escuchar 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 400 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ micro ”«~~~~~» 
+
+ id: 106
+ name: micro
+ description: calienta 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 700 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ estufa ”«~~~~~» 
+
+ id: 107
+ name: estufa
+ description: caliente 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 13254 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ refri ”«~~~~~» 
+
+ id: 108
+ name: refri
+ description: frio 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 235 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ celular ”«~~~~~» 
+
+ id: 109
+ name: celular
+ description: ver 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 12356 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ compu ”«~~~~~» 
+
+ id: 110
+ name: compu
+ description: tarea 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 234134 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ aire ”«~~~~~» 
+
+ id: 111
+ name: aire
+ description: frio 
+ created_date: 2023-06-06 
+ user: 15222431 
+ price: 123124 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Lap ”«~~~~~» 
+
+ id: 127
+ name: Lap
+ description: tareas 
+ created_date: 2023-06-07 
+ user: 15222431 
+ price: 3525 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ bocina ”«~~~~~» 
+
+ id: 128
+ name: bocina
+ description: escucha 
+ created_date: 2023-06-07 
+ user: 15222431 
+ price: 124 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ consola ”«~~~~~» 
+
+ id: 129
+ name: consola
+ description: juego 
+ created_date: 2023-06-07 
+ user: 15222431 
+ price: 34524 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ xbox ”«~~~~~» 
+
+ id: 130
+ name: xbox
+ description: jugar 
+ created_date: 2023-06-07 
+ user: 15222431 
+ price: 14354 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222103 «············» 
+
+ «~~~~~»“ poot-te ”«~~~~~» 
+
+ id: 138
+ name: poot-te
+ description: delicioso te 
+ created_date: 2023-06-07 
+ user: 15222103 
+ price: 2503 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Cafeylin ”«~~~~~» 
+
+ id: 139
+ name: Cafeylin
+ description: cafe americano 
+ created_date: 2023-06-07 
+ user: 15222103 
+ price: 13995 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Rosca-Poot-7114 ”«~~~~~» 
+
+ id: 156
+ name: Rosca-Poot-7114
+ description: Unico e inigualable-7114 
+ created_date: 2023-06-07 
+ user: 15222103 
+ price: 7114 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Me-ffin-27231 ”«~~~~~» 
+
+ id: 164
+ name: Me-ffin-27231
+ description: Para chuparse los dedos-27231 
+ created_date: 2023-06-07 
+ user: 15222103 
+ price: 27231 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222195 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221663 «············» 
+
+ «~~~~~»“ Pokemon ROJO ”«~~~~~» 
+
+ id: 146
+ name: Pokemon ROJO
+ description: Juego de la famosa saga de Pokemon 
+ created_date: 2023-06-07 
+ user: 15221663 
+ price: 349 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Pokemon AZUL ”«~~~~~» 
+
+ id: 147
+ name: Pokemon AZUL
+ description: Juego de la famosa saga de Pokemon 
+ created_date: 2023-06-07 
+ user: 15221663 
+ price: 322 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Outlast ”«~~~~~» 
+
+ id: 148
+ name: Outlast
+ description: Juego de terror Offline 
+ created_date: 2023-06-07 
+ user: 15221663 
+ price: 542 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Halo Infinite ”«~~~~~» 
+
+ id: 149
+ name: Halo Infinite
+ description: Modo historia 
+ created_date: 2023-06-07 
+ user: 15221663 
+ price: 1299 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Resident Evil 4 Remake ”«~~~~~» 
+
+ id: 150
+ name: Resident Evil 4 Remake
+ description: Remake del juego original RE4 
+ created_date: 2023-06-07 
+ user: 15221663 
+ price: 1299 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ SSALIR ”«~~~~~» 
+
+ id: 151
+ name: SSALIR
+ description: saliomal 
+ created_date: 2023-06-07 
+ user: 15221663 
+ price: 1 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Left 4 dead 2 ”«~~~~~» 
+
+ id: 152
+ name: Left 4 dead 2
+ description: Secuela del famoso videojuego Left 4 dead 
+ created_date: 2023-06-07 
+ user: 15221663 
+ price: 499 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Bomberman ”«~~~~~» 
+
+ id: 153
+ name: Bomberman
+ description: Juego multijugador y offline 
+ created_date: 2023-06-07 
+ user: 15221663 
+ price: 299 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ La llorona ”«~~~~~» 
+
+ id: 154
+ name: La llorona
+ description: Juego de terror sobre la leyenda de la llorona 
+ created_date: 2023-06-07 
+ user: 15221663 
+ price: 566 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ The Forest ”«~~~~~» 
+
+ id: 155
+ name: The Forest
+ description: Juego de supervivencia 
+ created_date: 2023-06-07 
+ user: 15221663 
+ price: 251 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Back 4 Blood ”«~~~~~» 
+
+ id: 163
+ name: Back 4 Blood
+ description: Juego de zombies 
+ created_date: 2023-06-07 
+ user: 15221663 
+ price: 655 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15222101 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 152211667 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» [1;95m [MATRICULA] [0:95m 15221669 «············» 
+
+ «~~~~~»“ Pan-Peniche-12680 ”«~~~~~» 
+
+ id: 80
+ name: Pan-Peniche-12680
+ description: Para chuparse los dedos-12680 
+ created_date: 2023-06-03 
+ user: 15221669 
+ price: 12680 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Pan-Peniche-14255 ”«~~~~~» 
+
+ id: 81
+ name: Pan-Peniche-14255
+ description: Para chuparse los dedos-14255 
+ created_date: 2023-06-03 
+ user: 15221669 
+ price: 14255 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Pan-Peniche-29247 ”«~~~~~» 
+
+ id: 82
+ name: Pan-Peniche-29247
+ description: Redondo y sabroso-29247 
+ created_date: 2023-06-03 
+ user: 15221669 
+ price: 29247 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Pan-Peniche-15160 ”«~~~~~» 
+
+ id: 83
+ name: Pan-Peniche-15160
+ description: Para chuparse los dedos-15160 
+ created_date: 2023-06-03 
+ user: 15221669 
+ price: 15160 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Rosca-Poot-11895 ”«~~~~~» 
+
+ id: 84
+ name: Rosca-Poot-11895
+ description: Redondo y sabroso-11895 
+ created_date: 2023-06-03 
+ user: 15221669 
+ price: 11895 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Rosca-Poot-29149 ”«~~~~~» 
+
+ id: 85
+ name: Rosca-Poot-29149
+ description: Redondo y sabroso-29149 
+ created_date: 2023-06-03 
+ user: 15221669 
+ price: 29149 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Pan-Peniche-20776 ”«~~~~~» 
+
+ id: 86
+ name: Pan-Peniche-20776
+ description: Para chuparse los dedos-20776 
+ created_date: 2023-06-03 
+ user: 15221669 
+ price: 20776 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Rosca-Poot-16949 ”«~~~~~» 
+
+ id: 87
+ name: Rosca-Poot-16949
+ description: Redondo y sabroso-16949 
+ created_date: 2023-06-03 
+ user: 15221669 
+ price: 16949 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Rosca-Poot-32368 ”«~~~~~» 
+
+ id: 88
+ name: Rosca-Poot-32368
+ description: Redondo y sabroso-32368 
+ created_date: 2023-06-03 
+ user: 15221669 
+ price: 32368 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Pan-Peniche-8958 ”«~~~~~» 
+
+ id: 89
+ name: Pan-Peniche-8958
+ description: Redondo y sabroso-8958 
+ created_date: 2023-06-03 
+ user: 15221669 
+ price: 8958 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Rosca-Poot-16984 ”«~~~~~» 
+
+ id: 90
+ name: Rosca-Poot-16984
+ description: Redondo y sabroso-16984 
+ created_date: 2023-06-03 
+ user: 15221669 
+ price: 16984 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Pan-Peniche-6716 ”«~~~~~» 
+
+ id: 100
+ name: Pan-Peniche-6716
+ description: Unico e inigualable-6716 
+ created_date: 2023-06-06 
+ user: 15221669 
+ price: 6716 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“ Cappu-niche-16097 ”«~~~~~» 
+
+ id: 101
+ name: Cappu-niche-16097
+ description: Nada que lo supere-16097 
+ created_date: 2023-06-06 
+ user: 15221669 
+ price: 16097 
+ 
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «············» [1;95m [MATRICULA] [0:95m 15198855 «············» 
+
+ [1;91m [ERROR] [0;91m [0m No posee productos 
+
+ «············» «·····················» «············» 

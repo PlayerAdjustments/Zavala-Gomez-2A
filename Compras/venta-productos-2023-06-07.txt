@@ -1,0 +1,34 @@
+ «············»“ Productos - 2023-06-07 ”«············»
+
+ «~~~~~»“Cafeteria-LosGorros-213”«~~~~~» 
+
+ name: Cafeteria-LosGorros-213
+ description: Donde-Tus-Sueños-Se-Cumplen-A-Medias 
+ created_date: 2023-06-07 
+ user: 15221669 
+ price: 144 
+ id: 165
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“THE COFFE FILES”«~~~~~» 
+
+ name: THE COFFE FILES
+ description: Where dreams come true 
+ created_date: 2023-06-07 
+ user: 15221669 
+ price: 23025 
+ id: 168
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ «~~~~~»“BRUNCH TIME”«~~~~~» 
+
+ name: BRUNCH TIME
+ description: What even is this 
+ created_date: 2023-06-07 
+ user: 15221669 
+ price: 6712 
+ id: 169
+ «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» 
+
+ TOTAL $ 29737
+ «············»“ FIN NOTA - PRODUCTOS ”«············»

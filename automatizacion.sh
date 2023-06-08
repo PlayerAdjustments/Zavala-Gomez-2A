@@ -116,7 +116,7 @@ do
 			currentProductUser=$(jq -r ".products[$i] .user" "$QUACK/SucessProducts.json")
 			currentProductPrice=$(jq -r ".products[$i] .price" "$QUACK/SucessProducts.json")
 			printf "\n $BACKUP $currentProductName $NC \n"
-			printf "\n «~~~~~»“$currentProductName”«~~~~~» \n" >> "$QUACK/CRONS/mis-archivos-$CURRENTDATE.txt"
+			printf "\n «~~~~~»“ $currentProductName ”«~~~~~» \n" >> "$QUACK/CRONS/mis-archivos-$CURRENTDATE.txt"
 			printf "\n id: $currentProductID\n name: $currentProductName\n description: $currentProductDescription \n created_date: $currentProductCreatedDate \n user: $currentProductUser \n price: $currentProductPrice \n " >> "$QUACK/CRONS/mis-archivos-$CURRENTDATE.txt"
 			printf "\n «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~» \n" >> "$QUACK/CRONS/mis-archivos-$CURRENTDATE.txt"
 
