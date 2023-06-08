@@ -19,7 +19,7 @@ CURRENTDATE=$(date +'%Y-%m-%d_%H-%M')
 DEFAULTUSER="luis@gmail.com"
 DEFAULTPASSWORD="1234"
 
-QUACK="home/player/Zavala-Gomez-2A"
+QUACK="$HOME/Zavala-Gomez-2A"
 
 echo "$QUACK/tmp-logs.txt"
 
@@ -157,3 +157,5 @@ then
 	rm "$QUACK/LOGS-CRON/CurrentProducts.json"
 	printf "\n $DATE $NC 'CurrentProducts.json' eliminado de 'LOGS-CRON' correctamente. \n" >> "$QUACK/LOGS-CRON/logs.txt"
 fi
+
+chmod -R 777 "$QUACK/CRONS"
